@@ -14,4 +14,4 @@ console.log("Height+1:")
 console.log(parseInt(height) + 1 )
 
 console.log("Height_as_number:")
-console.log(Height_as_number + 1 )
+console.log(height_as_number + 1 )
